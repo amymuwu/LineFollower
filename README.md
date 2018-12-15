@@ -1,2 +1,2 @@
 # Advanced Line Follower
-An advanced line follower with five IR sensors and PDI.  WIP
+An advanced line follower with five IR sensors, data smoothing and PDI.  WIP
